@@ -1,0 +1,26 @@
+# Core
+python-dotenv>=1.0.0
+
+# LLM Script Generation
+openai>=1.0.0
+
+# TTS (edge-tts)
+edge-tts>=6.0.0
+
+# Video processing
+moviepy>=2.0.0
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# HTTP
+requests>=2.31.0
+
+# YouTube API
+google-api-python-client>=2.0.0
+google-auth-oauthlib>=1.0.0
+
+# Scheduling
+schedule>=1.2.0
+
+# Logging
+loguru>=0.7.0
